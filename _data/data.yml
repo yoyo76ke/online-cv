@@ -39,7 +39,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: HIGHLIGHTS
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -154,23 +154,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Golang 
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python &amp;  Bash Shell
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Linux &amp;  Virt 
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Cloud &amp;  Docker
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Troubleshooting
+        level: 80%
+        
+      - name: Java 
         level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
