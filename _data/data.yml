@@ -14,33 +14,27 @@ sidebar:
     # Sidebar links
     email: wangshengnan_bj@hotmail.com
     phone: 18510782035
-    website: http:// #do not add http://
-    linkedin: wangshengnan
+    #website: http:// #do not add http://
+    linkedin: shengnan-wang-333a0bb0
     github: yoyo76ke
     gitlab:
     bitbucket:
-    twitter: ''
+    #twitter: ''
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
       - item: Climbing
         link:
-
-      - item: Snowboarding
-        link:
-
+        
       - item: Cooking
         link:
 
