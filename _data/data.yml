@@ -155,19 +155,19 @@ skills:
 
     toolset:
       - name: Golang 
-        level: 90%
+        level: 95%
 
       - name: Python &amp;  Bash Shell
-        level: 80%
+        level: 90%
 
       - name: Linux &amp;  Virt 
         level: 95%
 
       - name: Cloud &amp;  Docker
-        level: 85%
+        level: 80%
 
       - name: Troubleshooting
-        level: 80%
+        level: 85%
         
       - name: Java 
         level: 60%
