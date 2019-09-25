@@ -59,50 +59,40 @@ education:
       time: 2003 - 2007
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Software Development Engineer (Golang)
+      time: 2016 - Present
+      company: FreeWheel, Beijing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+          - Setup Market Insight project auto test framework from zero using golang.
+          - Setup Market Insight Auto CI in AWS ENV from zero.
+          - Develop Market Insight server side feature using golang.
+          - Maintain AdServing project auto test. Dockerized AdServing regression ENV. Add ADS auto test cases.
           
-    - role: Quality Engineer
+    - role: Quality Engineer (Python &amp;  Bash Shell)
       time: 2013 - 2016
       company: RedHat, Beijing
       details: |
-          - Virt ESX/Hyper-V project lead. In charge of ESX/Hyper-V project. Follow RedHat project schedule.
-            Communicate with partner MS/VMware. Control project risks. 
+          - Be Virt ESX/Hyper-V project lead. In charge of ESX/Hyper-V project. Follow RedHat project schedule. Control project risks. 
+          - Communicate with partner MS/VMware. 
           - Research project new features. Trace important bugs.
-          - Setup Hyper-V auto test framework from zero. Add Hyper-V Auto test cases.
-          - Setup ESX auto test framework from zero. Added 30% ESX auto cases(kdump, network and so on).
+          - Setup Hyper-V auto test framework from zero using python. Add Hyper-V Auto test cases.
+          - Setup ESX auto test framework from zero using python. Add 30% ESX auto cases(kdump, network and so on).
+          - Attend RedHat QE Camp Global Forum with topic.
         
- 
-    - role: Associate Quality Engineer
+    - role: Associate Quality Engineer (Python &amp;  Bash Shell)
       time: 2011 - 2013
       company: RedHat, Beijing
       details: |
           - Do Hyper-V manual test. Create test plan. Execute acceptance and functional test cases. Trace bugs. 
           - Be Feature owner of network, kdump, and so on. Reproduce and document bugs. Have a high bug contribution.
-          - Do Virt project Xen manual test. Execute acceptance and functional test cases in Linux ENV.
+          - Do Virt project Xen manual test using bash shell. Execute acceptance and functional test cases.
         
-    - role: Internship
+    - role: Internship (Java)
       time: 2010 - 2011
       company: EMC, Beijing
       details: |
-        This project is for developing a cloud computing database Aurora. 
-        Doing functional Test for Aurora, including test case design and execution. 
-        Developed the automatic importing tool by java, which extracts the data
-        from EXCEL files and imports into Testlink system.
+          - Do functional Test for Aurora, including test case design and execution.Aurora is a cloud computing database.
+          - Develop the automatic importing tool by java, which extracts the data from EXCEL files and imports into Testlink system.
 
     - role: Project manager
       time: 2007 - 2008
