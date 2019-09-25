@@ -96,18 +96,18 @@ experiences:
         J&K chemical technical company IT system sector.Working as project manager, 
         in charge of requirement analysis for the Electronic Business System
 
-publications:
-    title: Publications
-    intro: |
-       The paper got the best paper award in The Fourth International Joint Conference
-       on Computational Sciences and Optimization (IEEE CSO 2011)
+#publications:
+ #   title: Publications
+ #   intro: |
+  #     The paper got the best paper award in The Fourth International Joint Conference
+  #     on Computational Sciences and Optimization (IEEE CSO 2011)
 
-    paper:
-      - title: Random rough subspace based neural network ensemble for insurance
-fraud detection
-        authors: Wei Xu, ShengNan Wang, Bo Yang
-        conference: The Fourth International Joint Conference on Computational 
-        Sciences and Optimization (IEEE CSO 2011).
+#    paper:
+ #     - title: Random rough subspace based neural network ensemble for insurance
+#fraud detection
+ #       authors: Wei Xu, ShengNan Wang, Bo Yang
+  #      conference: The Fourth International Joint Conference on Computational 
+   #     Sciences and Optimization (IEEE CSO 2011).
 
 
 skills:
