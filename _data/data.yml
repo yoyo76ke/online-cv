@@ -96,30 +96,16 @@ experiences:
         J&K chemical technical company IT system sector.Working as project manager, 
         in charge of requirement analysis for the Electronic Business System
 
-#publications:
- #   title: Publications
- #   intro: |
-  #     The paper got the best paper award in The Fourth International Joint Conference
-  #     on Computational Sciences and Optimization (IEEE CSO 2011)
-
-#    paper:
- #     - title: Random rough subspace based neural network ensemble for insurance
-#fraud detection
- #       authors: Wei Xu, ShengNan Wang, Bo Yang
-  #      conference: The Fourth International Joint Conference on Computational 
-   #     Sciences and Optimization (IEEE CSO 2011).
-   
 publications:
     title: Publications
-   # intro: |
-   #   You can list your publications in this section. Lorem ipsum dolor sit
-   #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-   #  bibendum fringilla a eu lectus.
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
-        authors: Wei Xu, ShengNan Wang, Bo Yang
-        conference: "The Fourth International Joint Conference on Computational 
-        Sciences and Optimization (IEEE CSO 2011)."
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
