@@ -108,7 +108,28 @@ experiences:
  #       authors: Wei Xu, ShengNan Wang, Bo Yang
   #      conference: The Fourth International Joint Conference on Computational 
    #     Sciences and Optimization (IEEE CSO 2011).
+   
+publications:
+    title: Publications
+   # intro: |
+   #   You can list your publications in this section. Lorem ipsum dolor sit
+   #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+   #  bibendum fringilla a eu lectus.
+    papers:
+      - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
+        authors: Wei Xu, ShengNan Wang, Bo Yang
+        conference: "The Fourth International Joint Conference on Computational 
+        Sciences and Optimization (IEEE CSO 2011)."
+        
+        - The paper got the best paper award.
 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
