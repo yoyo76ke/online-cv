@@ -47,7 +47,11 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
 
-      Second paragraph if required.
+      Second paragraph if required.         
+          - Setup Market Insight Auto CI in AWS ENV from zero.
+          - Develop Market Insight server side feature using golang.
+          - Maintain AdServing project auto test. Dockerized AdServing regression ENV. Add ADS auto test cases.
+      
 
 education:
     - degree: MSc in Management Science And Engineering
@@ -59,18 +63,18 @@ education:
       time: 2003 - 2007
 
 experiences:
-    - role: Senior Software Development Engineer (Golang)
+    - role: Senior Software Development Engineer
       time: 2016 - Present
-      company: FreeWheel, Beijing
+      company: FreeWheel, Beijing, Golang
       details: |
           - Setup Market Insight project auto test framework from zero using golang.
           - Setup Market Insight Auto CI in AWS ENV from zero.
           - Develop Market Insight server side feature using golang.
           - Maintain AdServing project auto test. Dockerized AdServing regression ENV. Add ADS auto test cases.
           
-    - role: Quality Engineer (Python &amp;  Bash Shell)
+    - role: Quality Engineer 
       time: 2013 - 2016
-      company: RedHat, Beijing
+      company: RedHat, Beijing, Python &amp;  Bash Shell
       details: |
           - Be Virt ESX/Hyper-V project lead. In charge of ESX/Hyper-V project. Follow RedHat project schedule. Control project risks. 
           - Communicate with partner MS/VMware. 
@@ -79,17 +83,17 @@ experiences:
           - Setup ESX auto test framework from zero using python. Add 30% ESX auto cases(kdump, network and so on).
           - Attend RedHat QE Camp Global Forum with topic.
         
-    - role: Associate Quality Engineer (Python &amp;  Bash Shell)
+    - role: Associate Quality Engineer
       time: 2011 - 2013
-      company: RedHat, Beijing
+      company: RedHat, Beijing, Python &amp;  Bash Shell
       details: |
           - Do Hyper-V manual test. Create test plan. Execute acceptance and functional test cases. Trace bugs. 
           - Be Feature owner of network, kdump, and so on. Reproduce and document bugs. Have a high bug contribution.
           - Do Virt project Xen manual test using bash shell. Execute acceptance and functional test cases.
         
-    - role: Internship (Java)
+    - role: Internship 
       time: 2010 - 2011
-      company: EMC, Beijing
+      company: EMC, Beijing, Java
       details: |
           - Do functional Test for Aurora, including test case design and execution.Aurora is a cloud computing database.
           - Develop the automatic importing tool by java, which extracts the data from EXCEL files and imports into Testlink system.
