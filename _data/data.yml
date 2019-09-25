@@ -103,10 +103,9 @@ publications:
    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
    #  bibendum fringilla a eu lectus.
     papers:
-      - title: Random rough subspace based neural network ensemble for insurance fraud detection
+      - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
         authors: Wei Xu, ShengNan Wang, Bo Yang
-        conference: The Fourth International Joint Conference on Computational 
-        Sciences and Optimization (IEEE CSO 2011)
+        conference: "The Fourth International Joint Conference on Computational Sciences and Optimization (IEEE CSO 2011)"
         award: Got the best paper award
 
 skills:
