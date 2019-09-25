@@ -116,12 +116,12 @@ publications:
    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
    #  bibendum fringilla a eu lectus.
     papers:
-      - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
-        authors: Wei Xu, ShengNan Wang, Bo Yang
-        conference: "The Fourth International Joint Conference on Computational 
-        Sciences and Optimization (IEEE CSO 2011)."
+    #  - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
+     #   authors: Wei Xu, ShengNan Wang, Bo Yang
+      #  conference: "The Fourth International Joint Conference on Computational 
+       # Sciences and Optimization (IEEE CSO 2011)."
         
-        - The paper got the best paper award.
+        #- The paper got the best paper award.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
