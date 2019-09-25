@@ -75,19 +75,42 @@ experiences:
 
           - Bullet point
           - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          
+    - role: Quality Engineer
+      time: 2013 - 2016
+      company: RedHat, Beijing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        ESX/Hyper-V project lead.In charge of ESX/Hyper-V project and setup ESX/Hyper-V auto test framework. 
+        Follow project schedule. Trace important bugs. Control project risks. Communicate with partner MS/VMware. 
+        From 2015.04, focus on ESX/Hyper-V auto test. Choose autotest framework to auto ESX test cases. 
+        Modify auto test framework that it could be use in auto ESX test cases. 
+        Added 30+ ESX auto cases(kdump, network, general operations and so on). 
+        Choose LISA framework to auto Hyper-V test cases. Will start Hyper-V auto test in the end of year.
+ 
+    - role: Associate Quality Engineer
+      time: 2012 - 2013
+      company: RedHat, Beijing
+      details: |
+        Hyper-V manual test.Create test plan. Execute acceptance and functional test cases. 
+        Trace bugs. 
+        Feature owner of network, kdump, and so on. Have a high bug contribution.
 
-          - Bullet point
-          - Bullet point
+        
+    - role: Internship
+      time: 2011 - 2012
+      company: RedHat, Beijing
+      details: |
+        Virt project Xen manual test. Execute acceptance and functional test cases in Linux ENV.
+        Have a high bug contribution.
+        
+    - role: Internship
+      time: 2010 - 2011
+      company: EMC, Beijing
+      details: |
+        This project is for developing a cloud computing database Aurora. 
+        Doing functional Test for Aurora, including test case design and execution. 
+        Developed the automatic importing tool by java, which extracts the data
+        from EXCEL files and imports into Testlink system.
 
     - role: Project manager
       time: 2007 - 2008
