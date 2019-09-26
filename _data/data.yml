@@ -40,18 +40,11 @@ sidebar:
 
 career-profile:
     title: HIGHLIGHTS
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.         
-          - Setup Market Insight Auto CI in AWS ENV from zero.
-          - Develop Market Insight server side feature using golang.
-          - Maintain AdServing project auto test. Dockerized AdServing regression ENV. Add ADS auto test cases.
-      
+    summary: |       
+          - Great passion on learning Computer science. Get many IT certificates after graduated.
+          - Strong communication experiences with partners and good collaboration with colleagues.
+          - More than 7 years’ work experience with programming, Virt, Linux, Cloud and Docker.
+          - BSc in Information Management And Information System of RENMIN University. MSc in Management Science And Engineering of RENMIN University
 
 education:
     - degree: MSc in Management Science And Engineering
@@ -77,7 +70,7 @@ experiences:
       company: RedHat, Beijing, Python &amp;  Bash Shell
       details: |
           - Be Virt ESX/Hyper-V project lead. In charge of ESX/Hyper-V project. Follow RedHat project schedule. Control project risks. 
-          - Communicate with partner MS/VMware. 
+          - Communicate with partners MS/VMware. 
           - Research project new features. Trace important bugs.
           - Setup Hyper-V auto test framework from zero using python. Add Hyper-V Auto test cases.
           - Setup ESX auto test framework from zero using python. Add 30% ESX auto cases(kdump, network and so on).
@@ -115,6 +108,8 @@ publications:
       - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
         authors: Wei Xu, ShengNan Wang, Bo Yang
         conference: "The Fourth International Joint Conference on Computational Sciences and Optimization (IEEE CSO 2011)"
+            "- Get the meeting best paper award."
+
 
 
 skills:
