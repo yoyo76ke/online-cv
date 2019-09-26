@@ -85,7 +85,7 @@ experiences:
           - Do Virt project Xen manual test using bash shell. Execute acceptance and functional test cases.
         
     - role: Internship 
-      time: 2010 - 2011
+      time: 2010.08 - 2011.02
       company: EMC, Beijing, Java
       details: |
           - Do functional Test for Aurora, including test case design and execution.Aurora is a cloud computing database.
