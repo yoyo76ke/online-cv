@@ -108,31 +108,25 @@ publications:
           - Get the meeting best paper award.
 
 projects:
-    title: Projects
+    title: CERTIFICATIONS
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: CCNA (Cisco Certified Network Associate)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
+        tagline: "Sept. 2014"
+        
+      - title: RHCSA (RedHat Certified Virtualization Administrator) 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Apr. 2013"
 
-      - title: Atom
+      - title: RHCE (RedHat Certified Engineer) 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Apr. 2013"
 
-      - title: Delta
+      - title: SCJP (Sun Certified Programmer for Java Platform) 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Feb. 2010"
+
 skills:
     title: Skills &amp; Proficiency
 
