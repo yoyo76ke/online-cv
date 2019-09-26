@@ -107,7 +107,7 @@ publications:
         details: |
           - Get the meeting best paper award.
 
-publications:
+skills:
     title: CERTIFICATIONS
 
     toolset:
@@ -120,7 +120,7 @@ publications:
       - name: SCJP (Sun Certified Programmer for Java Platform) Feb. 2010
 
 
-skills:
+#skills:
     title: Skills &amp; Proficiency
 
     toolset:
