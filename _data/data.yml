@@ -112,19 +112,19 @@ projects:
     intro: >
     assignments:
       - title: CCNA (Cisco Certified Network Associate)
-        link: "#"
+        #link: "#"
         tagline: "Sept. 2014"
         
       - title: RHCSA (RedHat Certified Virtualization Administrator) 
-        link: "#"
+        #link: "#"
         tagline: "Apr. 2013"
 
       - title: RHCE (RedHat Certified Engineer) 
-        link: "#"
+        #link: "#"
         tagline: "Apr. 2013"
 
       - title: SCJP (Sun Certified Programmer for Java Platform) 
-        link: "#"
+        #link: "#"
         tagline: "Feb. 2010"
 
 skills:
