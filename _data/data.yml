@@ -154,12 +154,17 @@ skills:
   
       - name: Git
         level: 90%
+        
+      - name: Xen &amp;  Hyper-V &amp;  ESXi
+        level: 80%
  
       - name: Java 
         level: 70%
         
       - name: Presto &amp;  Hive &amp;  Hadoop
         level: 70%
+        
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://yoyo76ke.github.io/online-cv/" target="_blank" rel="nofollow">Shengnan Wang</a>
