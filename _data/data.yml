@@ -66,17 +66,17 @@ experiences:
           - Setup Market Insight Auto CI in AWS ENV from zero using jenkins and AWS.
           - Maintain AdServing project auto test using python.
           - Dockerized AdServing regression ENV(AdServer, Regression tool, MySQL, MockServer,Nginx and so on). 
-          - Add ADS auto test cases.
+          - Add AdServing auto test cases.
           
     - role: Quality Engineer 
       time: 2013.09 - 2016.01
       company: RedHat, Beijing, Python &amp;  Bash Shell
       details: |
-          - Be Virt ESX/Hyper-V project lead. In charge of ESX/Hyper-V project. Follow RedHat project schedule. Control project risks. 
+          - Be Virt ESXi/Hyper-V project lead. In charge of ESXi/Hyper-V project. Follow RedHat project schedule. Control project risks. 
           - Communicate with partners MS/VMware. 
           - Research project new features. Trace important bugs.
           - Setup Hyper-V auto test framework from zero using python. Add Hyper-V Auto test cases.
-          - Setup ESX auto test framework from zero using python. Add 30% ESX auto cases(kdump, network and so on).
+          - Setup ESXi auto test framework from zero using python. Add 30% ESXi auto cases(kdump, network and so on).
           - Attend RedHat QE Camp Global Forum with topic.
         
     - role: Associate Quality Engineer
