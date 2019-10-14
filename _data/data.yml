@@ -61,10 +61,12 @@ experiences:
       time: 2016.02 - Present
       company: FreeWheel, Beijing, Golang
       details: |
-          - Setup Market Insight project auto test framework from zero using golang.
-          - Setup Market Insight Auto CI in AWS ENV from zero.
           - Develop Market Insight server side feature using golang.
-          - Maintain AdServing project auto test. Dockerized AdServing regression ENV. Add ADS auto test cases.
+          - Setup Market Insight project auto test framework from zero using golang and Docker(Presto+Hive+Hadoop). 
+          - Setup Market Insight Auto CI in AWS ENV from zero using jenkins and AWS.
+          - Maintain AdServing project auto test using python.
+          - Dockerized AdServing regression ENV(AdServer, Regression tool, MySQL, MockServer,Nginx and so on). 
+          - Add ADS auto test cases.
           
     - role: Quality Engineer 
       time: 2013.09 - 2016.01
@@ -147,6 +149,12 @@ skills:
       - name: Troubleshooting
         level: 85%
         
+      - name: Jenkins 
+        level: 90%
+  
+      - name: Git
+        level: 90%
+ 
       - name: Java 
         level: 60%
 
