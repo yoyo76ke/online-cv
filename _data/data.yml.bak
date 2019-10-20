@@ -1,0 +1,166 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Wang ShengNan
+    tagline: Senior Software Development Engineer
+    avatar: snwang.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: wangshengnan_bj@hotmail.com
+    phone: +86 185 1078 2035
+    #website: http:// #do not add http://
+    linkedin: shengnan-wang-333a0bb0
+    github: yoyo76ke
+    gitlab:
+    bitbucket:
+    #twitter: ''
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Chinese
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Climbing
+        link:
+        
+      - item: Cooking
+        link:
+
+career-profile:
+    title: HIGHLIGHTS
+    summary: |       
+          - Great passion on learning Computer science. Get many IT certificates after graduated.
+          - Interest and ability to learn new skills as needed.
+          - Strong communication experiences with partners and good collaboration with colleagues.
+          - More than 7 years’ work experience with programming, auto test, CI, Virt, Linux, Cloud and Docker.
+          - BSc in Information Management And Information System of RENMIN University. MSc in Management Science And Engineering of RENMIN University
+education:
+    - degree: MSc in Management Science And Engineering
+      university: RENMIN University
+      time: 2009 - 2012
+
+    - degree: BSc in Information Management And Information System
+      university: RENMIN University
+      time: 2003 - 2007
+
+experiences:
+    - role: Senior Software Development Engineer
+      time: 2016.02 - Present
+      company: FreeWheel, Beijing, Golang
+      details: |
+          - Develop Market Insight server side feature using golang.
+          - Setup Market Insight project auto test framework from zero using golang and Docker(Presto+Hive+Hadoop). 
+          - Setup Market Insight Auto CI in AWS ENV from zero using jenkins and AWS.
+          - Maintain AdServing project auto test using python.
+          - Dockerized AdServing regression ENV(AdServer, Regression tool, MySQL, MockServer,Nginx and so on). 
+          - Add AdServing auto test cases.
+          
+    - role: Quality Engineer 
+      time: 2013.09 - 2016.01
+      company: RedHat, Beijing, Python &amp;  Bash Shell
+      details: |
+          - Be Virt ESXi/Hyper-V project lead. In charge of ESXi/Hyper-V project. Follow RedHat project schedule. Control project risks. 
+          - Communicate with partners MS/VMware. 
+          - Research project new features. Trace important bugs.
+          - Setup Hyper-V auto test framework from zero using python. Add Hyper-V Auto test cases.
+          - Setup ESXi auto test framework from zero using python. Add 30% ESXi auto cases(kdump, network and so on).
+          - Attend RedHat QE Camp Global Forum with topic.
+        
+    - role: Associate Quality Engineer
+      time: 2011.06 - 2013.08
+      company: RedHat, Beijing, Python &amp;  Bash Shell
+      details: |
+          - Do Hyper-V manual test. Create test plan. Execute acceptance and functional test cases. Trace bugs. 
+          - Be Feature owner of network, kdump, and so on. Reproduce and document bugs. Have a high bug contribution.
+          - Do Virt project Xen manual test using bash shell. Execute acceptance and functional test cases.
+        
+    - role: Internship 
+      time: 2010.08 - 2011.02
+      company: EMC, Beijing, Java
+      details: |
+          - Do functional Test for Aurora, including test case design and execution.Aurora is a cloud computing database.
+          - Develop the automatic importing tool by java, which extracts the data from EXCEL files and imports into Testlink system.
+    - role: Project manager
+      time: 2007.07 - 2008.10
+      company:  J&K chemical, Beijing
+      details: |
+          - J&K chemical technical company IT system sector.Working as project manager, 
+          in charge of requirement analysis for the Electronic Business System
+publications:
+    title: Publications
+    papers:
+      - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
+        authors: Wei Xu, ShengNan Wang, Bo Yang
+        conference: "The Fourth International Joint Conference on Computational Sciences and Optimization (IEEE CSO 2011)"
+        details: |
+          - Get the meeting best paper award.
+projects:
+    title: CERTIFICATIONS
+    intro: >
+    assignments:
+      - title: CCNA (Cisco Certified Network Associate)
+        #link: "#"
+        tagline: "Sept. 2014"
+        
+      - title: RHCSA (RedHat Certified Virtualization Administrator) 
+        #link: "#"
+        tagline: "Apr. 2013"
+
+      - title: RHCE (RedHat Certified Engineer) 
+        #link: "#"
+        tagline: "Apr. 2013"
+
+      - title: SCJP (Sun Certified Programmer for Java Platform) 
+        #link: "#"
+        tagline: "Feb. 2010"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Golang 
+        level: 95%
+
+      - name: Python &amp;  Bash Shell
+        level: 90%
+
+      - name: Linux &amp;  Virt 
+        level: 95%
+
+      - name: Cloud &amp;  Docker
+        level: 80%
+
+      - name: Troubleshooting
+        level: 85%
+        
+      - name: Jenkins 
+        level: 90%
+  
+      - name: Git
+        level: 90%
+        
+      - name: Xen &amp;  Hyper-V &amp;  ESXi
+        level: 80%
+ 
+      - name: Java 
+        level: 70%
+        
+      - name: Presto &amp;  Hive &amp;  Hadoop
+        level: 70%
+        
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="https://yoyo76ke.github.io/online-cv/" target="_blank" rel="nofollow">Shengnan Wang</a>
